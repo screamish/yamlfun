@@ -1,0 +1,7 @@
+test:
+  template: "stackA.json"
+  parameters:
+    1:
+      Foo: baz
+    2:
+      Foo: bar
